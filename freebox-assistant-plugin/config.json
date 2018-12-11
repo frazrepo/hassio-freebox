@@ -1,0 +1,10 @@
+{
+  "name": "Freebox Assistant Config",
+  "version": "1",
+  "slug": "freebox_ac",
+  "description": "Freebox Assistant Plugin add-on!",
+  "startup": "before",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}

@@ -7,13 +7,15 @@
   "boot": "auto",
   "options": {},
   "schema": {},
-  "pushbullet": {
-    "token": "replace with your token"
+  "main": {
+    "pushbullet_token": "yourtoken"
   },
-  "freebox": {
-    "code_telecommande": "codetelecommande",
-    "search_path": "/Disque dur/Vidéos/",
-    "use_Mon_Bouquet": false,
-    "box_to_control": "hd1"
+  "plugins": {
+    "freebox": {
+      "code_telecommande": "your freebox telecommande code",
+      "search_path": "/Disque dur/Vidéos/",
+      "use_Mon_Bouquet": false,
+      "box_to_control": "hd1"
+    }
   }
 }

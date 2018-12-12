@@ -5,17 +5,19 @@
   "description": "Freebox Assistant Plugin add-on",
   "startup": "before",
   "boot": "auto",
-  "options": {},
-  "schema": {},
-  "main": {
-    "pushbullet_token": "yourtoken"
+  "options": {
+    "main": {
+      "pushbullet_token": "yourtoken"
+    },
+    "plugins": {
+      "freebox": {
+        "code_telecommande": "your freebox telecommande code",
+        "search_path": "/Disque dur/Vidéos/",
+        "use_Mon_Bouquet": false,
+        "box_to_control": "hd1"
+      }
+  }  
   },
-  "plugins": {
-    "freebox": {
-      "code_telecommande": "your freebox telecommande code",
-      "search_path": "/Disque dur/Vidéos/",
-      "use_Mon_Bouquet": false,
-      "box_to_control": "hd1"
-    }
-  }
+  "schema": {},
+
 }

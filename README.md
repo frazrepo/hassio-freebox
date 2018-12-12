@@ -11,4 +11,8 @@ Un add-on Hassio (Home Assistant) pour [assistant-freebox](https://github.com/Ay
 * Dans la section Config, renseigner votre token pushbullet, votre code telecommande et éventuellement remplacer hd1 par hd2.
 * Cliquer sur Start pour démarrer
 * Vérifier au niveau de la Freebox pour valider (flèche droite) le plugin et c'est tout !
+* Ne pas oublier d'**activer les applets** Freebox dans IFTTT
+
+## Crédits
+* [assistant-freebox](https://github.com/Aymkdn/assistant-freebox)
 

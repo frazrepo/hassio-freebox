@@ -1,6 +1,6 @@
 ## hassio-freebox
 
-Un add-on Hassio (Home Assistant) pour [assistant-freebox](https://github.com/Aymkdn/assistant-freebox). assistant-freebox permet de contrôler la FreeBox Revolution via Google Home.
+Un add-on Hassio ([Home Assistant](https://www.home-assistant.io/)) pour [assistant-freebox](https://github.com/Aymkdn/assistant-freebox). assistant-freebox permet de contrôler la FreeBox Revolution via Google Home.
 
 
 ## Installation
@@ -14,5 +14,6 @@ Un add-on Hassio (Home Assistant) pour [assistant-freebox](https://github.com/Ay
 * Ne pas oublier d'**activer les applets** Freebox dans IFTTT
 
 ## Crédits
+* [Home Assistant](https://www.home-assistant.io/)
 * [assistant-freebox](https://github.com/Aymkdn/assistant-freebox)
 

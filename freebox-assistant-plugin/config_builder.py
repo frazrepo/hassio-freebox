@@ -1,7 +1,6 @@
 import json
 import argparse
 from pathlib import Path
-import yaml
 
 class ConfigBuilder:
     def __init__(self, config, options):

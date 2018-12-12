@@ -3,6 +3,7 @@
 	"version": "1",
 	"slug": "freebox_ac",
 	"description": "Freebox Assistant Plugin add-on",
+	"url": "https://github.com/frazrepo/hassio-freebox",
 	"startup": "before",
 	"boot": "auto",
 	"options": {

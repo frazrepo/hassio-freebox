@@ -13,5 +13,11 @@
 		"use_Mon_Bouquet": false,
 		"box_to_control": "hd1"
 	},
-	"schema": {}
+	"schema": {
+		"pushbullet_token": "str",
+		"code_telecommande": "str",
+		"search_path": "str",
+		"use_Mon_Bouquet": "bool",
+		"box_to_control": "str"
+	}
 }

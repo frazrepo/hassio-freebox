@@ -7,11 +7,11 @@
   "boot": "auto",
   "options": {
     "main": {
-      "pushbullet_token": "yourtoken"
+      "pushbullet_token": "votre token pushbullet"
     },
     "plugins": {
       "freebox": {
-        "code_telecommande": "your freebox telecommande code",
+        "code_telecommande": "votre code telecommande",
         "search_path": "/Disque dur/Vidéos/",
         "use_Mon_Bouquet": false,
         "box_to_control": "hd1"

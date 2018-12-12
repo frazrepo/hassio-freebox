@@ -6,18 +6,12 @@
   "startup": "before",
   "boot": "auto",
   "options": {
-    "main": {
       "pushbullet_token": "votre token pushbullet"
-    },
-    "plugins": {
-      "freebox": {
-        "code_telecommande": "votre code telecommande",
-        "search_path": "/Disque dur/Vidéos/",
-        "use_Mon_Bouquet": false,
-        "box_to_control": "hd1"
-      }
+      "code_telecommande": "votre code telecommande",
+      "search_path": "/Disque dur/Vidéos/",
+      "use_Mon_Bouquet": false,
+      "box_to_control": "hd1"
   }  
   },
   "schema": {},
-
 }

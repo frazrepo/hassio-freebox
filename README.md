@@ -20,7 +20,7 @@ Pour pouvoir utiliser cet add-on (et le plugin) , il vous faut un compte [pushbu
 ![images/hassio-addon-1.png](images/hassio-addon-2.png)
 
 * Cliquer sur Start pour démarrer
-* Vérifier au niveau de la Freebox pour valider le plugin (flèche droite) et c'est tout !
+* Vérifier au niveau de la Freebox **pour valider le plugin** (flèche droite) ! Cette étape de validation est à faire à chaque fois que vous redémarrer la machine qui héberge le plugin
 
 ## Utilisation
 

@@ -5,6 +5,12 @@
 	"description": "Freebox Assistant Plugin add-on",
 	"url": "https://github.com/frazrepo/hassio-freebox",
 	"startup": "before",
+	"arch": [
+	    "aarch64",
+	    "amd64",
+	    "armhf",
+	    "i386"
+	],
 	"boot": "auto",
 	"options": {
 		"pushbullet_token": "votre token pushbullet",

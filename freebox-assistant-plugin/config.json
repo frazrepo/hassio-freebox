@@ -1,6 +1,6 @@
 {
 	"name": "Freebox Add-On",
-	"version": "1.0",
+	"version": "1.1",
 	"slug": "fbx_ac",
 	"description": "Freebox Assistant Plugin add-on",
 	"url": "https://github.com/frazrepo/hassio-freebox",
